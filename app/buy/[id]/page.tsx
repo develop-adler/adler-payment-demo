@@ -48,7 +48,7 @@ export default function PaymentPage() {
         {['card', 'paypal', 'crypto'].map((method) => (
           <button
             key={method}
-            onClick={() => setPaymentMethod(method as any)}
+            onClick={() => setPaymentMethod(method as 'card' | 'paypal' | 'crypto')}
             className={`px-4 py-2 rounded-lg text-sm border ${
               paymentMethod === method
                 ? 'bg-blue-600 text-white border-blue-600'
