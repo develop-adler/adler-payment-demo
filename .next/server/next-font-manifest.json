@@ -1,0 +1,16 @@
+{
+  "app": {
+    "[project]/app/_not-found/page": [
+      "static/media/o_0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0-s.p.4427385a.woff2"
+    ],
+    "[project]/app/buy/[id]/page": [
+      "static/media/o_0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0-s.p.4427385a.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/o_0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0-s.p.4427385a.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
