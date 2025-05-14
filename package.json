@@ -9,11 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@paypal/react-paypal-js": "^8.8.3",
+    "@stripe/react-stripe-js": "^3.7.0",
+    "@stripe/stripe-js": "^7.3.0",
     "@tailwindcss/postcss": "^4.1.5",
-    "next": "15.3.1",
+    "anchor-pki": "^0.3.2",
+    "next": "^15.3.1",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "stripe": "^18.1.0",
     "tailwindcss": "^4.1.5"
   },
   "devDependencies": {

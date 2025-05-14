@@ -1,0 +1,10 @@
+[lcl-host]
+realm-apid = 'localhost'
+
+[org]
+apid = 'mussie-aklilu-0640c0'
+
+[service]
+apid = 'adler-payment-demo'
+category = 'javascript'
+cert-style = 'acme'
